@@ -1,1 +1,1 @@
-# psu_diary
+# psudiary
